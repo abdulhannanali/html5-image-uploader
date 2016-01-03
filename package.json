@@ -1,0 +1,22 @@
+{
+  "name": "html5-image-uploader",
+  "version": "1.0.0",
+  "description": "An HTML5 Image uploader for uploading files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhannanali/html5-image-uploader.git"
+  },
+  "keywords": [
+    "html5"
+  ],
+  "author": "Hannan Ali (abdulhannanali@outlook.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/abdulhannanali/html5-image-uploader/issues"
+  },
+  "homepage": "https://github.com/abdulhannanali/html5-image-uploader#readme"
+}
